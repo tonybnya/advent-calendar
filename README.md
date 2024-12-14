@@ -7,4 +7,4 @@ npm install
 npm run dev
 ```
 
-or go to the deployed version at `https://advent-calendar.onrender.com/`
+or go to the deployed version at `https://advent-calendar-suw2.onrender.com`
